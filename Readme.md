@@ -30,9 +30,9 @@ Written in March of 2010 for a presentation on Regular Expressions, shown here:
 
 With associated slides:
 
-  * http://docs.google.com/present/view?id=aqfbzmmn589_2817gbrbx6g6
+  * https://docs.google.com/presentation/d/e/2PACX-1vRMV_gCgeh5SIA1knfa-i1vDFRwjNVOfyrNJh5-lH2USvRY6lUmhbjcM9ux7zqXx4gqvjfWczRORpk9/pub?start=false&loop=false&delayms=3000
 
 See these links for more information:
 
-  * http://angelforge.org/wordpress/tags/word-jumble/
+  * https://antiquity.jamie.ly/tags/word-jumble/
 
