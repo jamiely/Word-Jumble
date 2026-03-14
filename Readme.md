@@ -1,5 +1,7 @@
 # Word Jumble
 
+![Word Jumble screenshot](docs/screenshot.png)
+
 A word jumble game. The premise of the game is to transform one word into 
 another by replacing a single letter in the starting word to form a new word 
 and repeating until you match the last word.
@@ -21,6 +23,21 @@ word, repeating the single-letter replacement until we have the word water.
   * The new word must be a real word (in some dictionary)
   * The same word cannot appear twice
   * Each word must be the same length
+
+## Run with Docker (Lucee)
+
+From the project directory:
+
+```bash
+docker run --rm -it \
+  -p 8080:8080 \
+  -e CFENGINE=lucee@5.4 \
+  -e PORT=8080 \
+  -v "$PWD":/app \
+  ortussolutions/commandbox:latest
+```
+
+Then open: http://localhost:8080/index.cfm
 
 # Other info
 
